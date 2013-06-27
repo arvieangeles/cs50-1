@@ -26,9 +26,9 @@ main (void)
         printf("Days in month: ");
         days = GetInt();
     } while (days > 31 || days < 28);
-    
+
     printf("Pennies on first day: ");
-    initial = GetInt();
+    initial = GetLongLong();
 
     sum = initial;
     for (int i = 1; i < days; i++) {
