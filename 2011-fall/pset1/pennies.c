@@ -6,7 +6,7 @@
  * amount they have provided is doubled every day for a specified number
  * of days
  *
- * Based on Arvie Angeles' implementation in:
+ * Based on Arvie Angeles' (@arvieangeles) implementation in:
  * https://github.com/arvieangeles/CS50/blob/master/pennies.c
  *
  * @requires The CS50 Library: https://manual.cs50.net/library/ 
